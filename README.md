@@ -1,2 +1,1 @@
-# implement-jwt
-Implement JWT (Jason Web Token)
+# Implement JWT (Jason Web Token)
